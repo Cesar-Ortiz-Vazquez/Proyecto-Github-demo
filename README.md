@@ -1,2 +1,2 @@
-# Proyecto-Github-demo
-Actividad de lectura Github Ucamper.
+# Proeycto Landing Page Estática
+Mi primera landing page.
